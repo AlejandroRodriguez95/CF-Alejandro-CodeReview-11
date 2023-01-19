@@ -16,4 +16,6 @@ Normal user (you can create more by registrating):
 email: alejandro@gmail.com
 password: user123
 
-There's no validation in the CRUD, as it was not a requirement, and it was not a real project. If it was needed, it would be easy to implement.
+There's no validation in the CRUD, as it was not a requirement, and it was not a real-world project. If it was needed, it would be easily implemented.
+
+The SQL file on the main folder contains the database tables and entries that are used in the project
